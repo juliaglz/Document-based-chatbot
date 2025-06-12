@@ -51,7 +51,7 @@ if __name__ == '__main__':
     data_directory = "./wiki2txt"
 
     db_manager = ChromaDBManagerBert(db_path)
-    collection_name = "documents_ppp92"
+    collection_name = "documents_test_B"
     collection = db_manager.create_collection(collection_name)
     print()
     dbk = collection.get()
