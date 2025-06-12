@@ -25,12 +25,12 @@ def generate_response(context, query):
     return response
 
 def main():
-    db_path = "C:\\Users\\julia\\PycharmProjects\\TFG\\TFG_iteration3"
+    db_path = "path"
     db_manager = ChromaDBManager(db_path)
-    collection_name = "documents_19"
+    collection_name = "GPT2"
     collection = db_manager.create_collection(collection_name)
 
-    data_directory = "./data2"
+    data_directory = "./wiki2txt"
     documents = []
     ids = []
 
