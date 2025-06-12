@@ -25,11 +25,11 @@ class ChromaDBManagerS:
 
 
 if __name__ == '__main__':
-    db_path = "C:\\Users\\julia\\PycharmProjects\\TFG\\TFG_iteration3"
+    db_path = "path"
     data_directory = "./wiki2txt"
 
     db_manager = ChromaDBManagerS(db_path)
-    collection_name = "MIGUEL_no"
+    collection_name = "test"
     collection = db_manager.create_collection(collection_name)
 
     documents = []
