@@ -47,7 +47,7 @@ class ChromaDBManagerBert:
 
 
 if __name__ == '__main__':
-    db_path = "C:\\Users\\julia\\PycharmProjects\\TFG\\TFG_iteration3"
+    db_path = "path"
     data_directory = "./wiki2txt"
 
     db_manager = ChromaDBManagerBert(db_path)
