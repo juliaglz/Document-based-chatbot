@@ -17,14 +17,7 @@ client = AzureOpenAI(
 def interact_with_ai(user_input):
     message_text = [{"role": "user", "content": user_input}]
     completion = client.chat.completions.create(
-        model="TFG",
-        messages=message_text,
-        temperature=0.7,
-        max_tokens=150,
-        top_p=1.0,
-        frequency_penalty=0.0,
-        presence_penalty=0.0,
-        stop=None
+#COMPLETE WITh MODEL INFO
     )
     ai_response = ""
     for choice in completion.choices:
