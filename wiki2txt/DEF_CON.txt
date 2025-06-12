@@ -1,0 +1,75 @@
+DEF CON (also written as DEFCON, Defcon or DC) is a hacker convention held annually in Las Vegas, Nevada. The first DEF CON took place in June 1993 and today many attendees at DEF CON include computer security professionals, journalists, lawyers, federal government employees, security researchers, students, and hackers with a general interest in software, computer architecture, hardware modification, conference badges, and anything else that can be "hacked". The event consists of several tracks of speakers about computer- and hacking-related subjects, as well as cyber-security challenges and competitions (known as hacking wargames). Contests held during the event are extremely varied and can range from creating the longest Wi-Fi connection to finding the most effective way to cool a beer in the Nevada heat.[2]
+
+Other contests, past and present, include lockpicking, robotics-related contests, art, slogan, coffee wars, scavenger hunt, and Capture the Flag. Capture the Flag (CTF) is perhaps the best known of these contests and is a hacking competition where teams of hackers attempt to attack and defend computers and networks using software and network structures. CTF has been emulated at other hacking conferences as well as in academic and military contexts (as red team exercises).
+
+Federal law enforcement agents from the FBI, DoD, United States Postal Inspection Service, DHS (via CISA) and other agencies regularly attend DEF CON.[3][4] Some have considered DEF CON to be the "world's largest" hacker con given its attendee size and the number of other conferences modeling themselves after it.
+
+DEF CON was founded in 1993, by then 18-year-old Jeff Moss as a farewell party for his friend, a fellow hacker and member of "Platinum Net", a FidoNet protocol based hacking network from Canada.[5] The party was planned for Las Vegas a few days before his friend was to leave the United States, because his father had accepted employment out of the country. However, his friend's father left early, taking his friend along, so Jeff was left alone with the entire party planned. Jeff decided to invite all his hacker friends to go to Las Vegas with him and have the party with them instead. Hacker friends from far and wide got together and laid the foundation for DEF CON, with roughly 100 people in attendance.
+
+The term DEF CON comes from the movie WarGames, referencing the U.S. Armed Forces defense readiness condition (DEFCON). In the movie, Las Vegas was selected as a nuclear target, and since the event was being hosted in Las Vegas, it occurred to Jeff Moss to name the convention DEF CON. However, to a lesser extent, CON also stands for convention and DEF is taken from the letters on the number 3 on a telephone keypad, a reference to phreakers.[6] The official name of the conference includes a space in-between DEF and CON.
+
+Though intended to be a one-time event, Moss received overwhelmingly positive feedback from attendees, and decided to host the event for a second year at their urging. The event's attendance nearly doubled the second year, and has enjoyed continued success.[7] In 2019, an estimated 30,000 people attended DEF CON 27.[8]
+
+ For DEF CON's 20th Anniversary, a film was commissioned entitled DEFCON: The Documentary.[9] The film follows the four days of the conference, events and people (attendees and staff), and covers history and philosophy behind DEF CON's success and unique experiences.
+
+ In January 2018, the DEF CON China Beta event was announced. The conference was held May 11–13, 2018 in Beijing, and marked DEF CON's first conference outside the United States. The second annual DEF CON China was canceled due to concerns related to COVID-19.[10]
+
+ In 2020, due to safety concerns over COVID-19 the DEF CON 28 in-person Las Vegas event was cancelled[11] and replaced with DEF CON Safe Mode,[12] a virtual event planned for the same August 6–9 dates as DC 28.
+
+In 2021, DEF CON 29 was held on August 5–8 in-person in Las Vegas and virtually (via Twitch and Discord). In-person attendees were required to wear masks in conference areas and to show proof to COVID-19 vaccination. Attendees with verified vaccine records (verified by a 3rd party) were given a wristband which was required for entry into the conference areas.[13]
+
+Attendees at DEF CON and other Hacker conferences often utilize an alias or "handle" at conferences. This is in keeping with the hacker community's desire for anonymity. Some known handles include DEF CON founder Jeff Moss' handle of "Dark Tangent". A notable event at DEF CON is DEF CON 101 which starts off the con and may offer the opportunity for an individual to come up on stage and be assigned a handle by a number of members of the community.
+
+A notable part of DEF CON is the conference badge, which identifies attendees and ensures attendees can access conference events and activities. The DEF CON badge has historically been notable because of its changing nature, sometimes being an electronic badge (PCB), with LEDs, or sometimes being a non-electronic badge such as a vinyl record. Conference badges often contain challenges or callbacks to hacker or other technology history, such as the usage of the Konami Code in the DEF CON 24 badge, or the DEF CON 25 badge reverting to the look of the DEF CON 1 badge. DEF CON Badges do not (generally) identify attendees by name; however, the badges are used to differentiate attendees from others. One way of doing this has been to have different badges, a general conference attendee (HUMAN) badge, a Staff member (GOON), Vendor, Speaker, Press, and other badges. In addition, individuals and organizations have begun creating their own badges in what has become known as badgelife. These badges may be purchased in many cases, or earned at the conference by completing challenges or events. Some badges may give the holder access to after hours events at the conference. In 2018, the evolution of this came with what was termed "shitty addon's" or SAOs. These were miniature (usually) PCBs that connected to the official and other badges that may extend functionality or were just collected.[14][15]
+
+Villages are dedicated spaces arranged around a specific topic. Villages may be considered mini conferences within the con, with many holding their own independent talks as well as hands-on activities such as CTFs, or labs. Some villages include Aerospace Village, Car Hacking Village, IoT Village, Recon, Biohacking, lockpicking, ham radio, and the well known Social Engineering and vote hacking villages. In 2018 the vote hacking village gained media attention due to concerns about US election systems security vulnerabilities.[16][17]
+
+DEF CON has its own cultural underground which results in individuals wanting to create their own meetups or "cons" within DEF CON. These may be actual formal meetups or may be informal. Well known cons are:
+
+Workshops are dedicated classes on various topics related to information security and related topics. Historical workshops have been held on topics such as Digital Forensics investigation, hacking IoT devices, playing with RFID, fuzzing and attacking smart devices.
+
+Since DEF CON 11, fundraisers have been conducted for the Electronic Frontier Foundation (EFF). The first fundraiser was a dunk tank and was an "official" event. The EFF now has an event named "The Summit" hosted by the Vegas 2.0 crew that is an open event and fundraiser. DEF CON 18 (2010) hosted a new fundraiser called MohawkCon.
+
+Within DEF CON there are many contests and events which range from, Capture the Flag, Hacker Jeopardy,[18] Scavenger Hunt,[19] Capture the Packet, Crash and Compile,[20] and Hackfortress[21] to name a few.
+
+The Black Badge is the highest award DEF CON gives to contest winners of certain events. Capture the flag (CTF) winners sometimes earn these, as well as Hacker Jeopardy winners. The contests that are awarded Black Badges vary from year to year, and a Black Badge allows free entrance to DEF CON for life, potentially a value of thousands of dollars.[22]
+
+In April 2017, a DEF CON Black Badge was featured in an exhibit[23] in the Smithsonian Institution's National Museum of American History entitled "Innovations in Defense: Artificial Intelligence and the Challenge of Cybersecurity". The badge belongs to ForAllSecure's Mayhem Cyber Reasoning System,[24] the winner of the DARPA 2016 Cyber Grand Challenge at DEF CON 24 and the first non-human entity ever to earn a Black Badge.
+
+The first instance of the DEF CON CTF was held in 1996, at the 4th DEF CON, and has been held since then every year.[25] It's one of the few CTF in the attack/defense format. The prize of the winning team is a couple of black badges.[26]
+
+In 1996, the first DEF CON CTF was organized, with a couple of servers for participants to hack, and judges to decide if a machine has been hacked, and award points accordingly.[35]
+
+In 2002, the company Immunix took part in the game under the moniker "immunex",[36] to benchmark the security of their Linux-based operating system, with modifications including StackGuard, FormatGuard, OpenWall's non-executable stack, SubDomain (the ancestor of AppArmor), ...[37]  Confident in their defense capabilities, they even opened access to their servers to other teams, and even spent some time taunting them. The team got the second place, and all their services deployed on their Immunix stack were never compromised.[38] It was also the first year the contest had an organiser-provided services infrastructure connected to a real-time scoreboard.[39]
+
+In 2003, the game had become so popular that a qualification round was introduced, with the previous winner automatically qualified.[40]
+
+In 2008, the Sk3wl of Root team took advantage of a bug in the game (privilege dropping and forking were inverted), allowing them to have such a massive lead that they spent most of the CTF playing Guitar Hero.[41][42]
+
+In 2009, it was announced[43] that "Diutinus Defense Technology Corp" (DDTEK) would be the new organisers, but nobody knew who they were. It was revealed at the end of the game that the team playing as sk3wl0fr00t was in fact organising the CTF! "Hacking the top hacker contest seemed like a fun way to introduce ourselves to CTF organization. The yells of "bullshit" from CTF teams during the Defcon 17 awards ceremony were very gratifying." said vulc@n, a member of DDTEK, on the topic.[26]
+
+In 2011, the team "lollerskaters dropping from roflcopters" used a 0day in FreeBSD (namely CVE-2011-4062[44]) to escape jails, causing havoc in the game's infrastructure.[45]
+
+In 2016, the 15th edition of the CTF was done in partnership with the DARPA, as part of its Cyber Grand Challenge program, where teams wrote autonomous systems to play the game without any human interaction.[46]
+
+In 2017, the Legitimate Business Syndicate came up with their very own CPU architecture called cLEMENCy: a middle-endian with 9 bits bytes CPU. With its specifications released only 24h before the beginning of the CTF, it was designed with the explicit goals of both surprising the teams, and leveling the playing field by breaking all their tools.[47]
+
+DEF CON Groups are worldwide, local chapters of hackers, thinkers, makers and others. DEF CON Groups were started as a splinter off of the 2600 meetup groups because of concerns over politicization. Local DEF CON groups are formed and are posted online.[48] DEF CON Groups are usually identified by the area code of the area where they are located in the US, and by other numbers when outside of the US e.g., DC801, DC201. DEF CON Groups may seek permission to make a logo that includes the official DEF CON logo with approval.
+
+High-profile issues which have garnered significant media attention.
+
+In 2008's contest "Race to Zero," contestants submitted a version of given malware which was required to be undetectable by all of the antivirus engines in each round. The contest concept attracted much negative attention.[54][55]
+
+On March 12, 2013, during a United States Senate Select Committee on Intelligence hearing, Senator Ron Wyden quoted the 2012 DEF CON keynote speech and asked Director of National Intelligence James Clapper if the U.S. conducted domestic surveillance; Clapper made statements saying that there was no intentional domestic surveillance.[58] In June 2013, NSA surveillance programs which collected data on US citizens, such as PRISM, had been exposed. Andy Greenberg of Forbes said that NSA officials, including Alexander, in the years 2012 and 2013 "publicly denied–often with carefully hedged words–participating in the kind of snooping on Americans that has since become nearly undeniable."[58]
+
+The winner of the Cyber Grand Challenge was "Mayhem", an AI created by ForAllSecure of Pittsburgh, Pennsylvania.[62] Mayhem then went on to participate in the previously humans-only DEF CON Capture the Flag Contest,[63] where it finished in last place, despite pulling ahead of human teams often in a contest for which it was not specifically designed.
+
+In September 2017, the Voting Machine Village produced "DEF CON 25 Voting Machine Hacking Village: Report on Cyber Vulnerabilities in US Election Equipment, Databases and Infrastructure" summarizing its findings. The findings were publicly released at an event sponsored by the Atlantic Council[65] and the paper went on to win an O'Reilly Defender Research Award.[66]
+
+Marcus Hutchins, better known online by his handle MalwareTech, the 23-year-old British security researcher who was credited with stopping the WannaCry outbreak was arrested by the FBI at the airport preparing to leave the country after attending DEF CON over his alleged involvement with the Kronos banking trojan.[67]
+
+Each conference venue and date has been extracted from the DEF CON archives for easy reference.[72]
+
+DEF CON
+
+Multimedia
