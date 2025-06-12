@@ -40,11 +40,11 @@ class ChromaDBManager:
 
 
 if __name__ == '__main__':
-    db_path = "C:\\Users\\julia\\PycharmProjects\\TFG\\TFG_iteration3"
+    db_path = "path"
     data_directory = "./wiki2txt"
 
     db_manager = ChromaDBManager(db_path)
-    collection_name = "documents_ppp0m00"
+    collection_name = "documents_test"
     collection = db_manager.create_collection(collection_name)
     print()
     dbk = collection.get()
